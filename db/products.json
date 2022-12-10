@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "62679eec692cd1f800d78acf"
+  },
+  "title": "Quần Tây Tối Giản HG17",
+  "desc": "Chất liệu: Vải Quần Tây Thành phần: 82% polyester 14% rayon 4% spandex - Mềm mại - Thoáng khí - Thân thiện với mối trường - Hút ẩm tốt",
+  "img": [
+    "https://cdn2.yame.vn/pimg/quan-tay-y2010-hg17-0019806/079fdf82-dce1-3200-5ed1-0018b9fb8f37.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/quan-tay-y2010-hg17-0019806/783c439e-0473-3300-079f-0018b9fb8fee.jpg?w=540&h=756"
+  ],
+  "categories": "Quantay",
+  "size": "Form Tiêu Chuẩn",
+  "color": "Đen",
+  "price": 325,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650958060412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669362468060"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267a7fe692cd1f800d78b55"
+  },
+  "title": "PKTT Dây Nịt Nguyên Bản M17",
+  "desc": "Dây: 100% da bò thật - Bền bỉ - Sang trọng và tinh tế - Dây nịt sử dụng được cả 2 mặt da --- Đầu khóa: Zinc contract (Là một loại hợp kim màu của Kẽm, thêm Nhôm, Đồng, Magie. Có màu trắng xanh ở nhiệt độ thường) - Bề mặt sáng bóng và đẹp - Đặc biệt: không gỉ sét",
+  "img": [
+    "https://cdn2.yame.vn/pimg/pktt-day-nit-on-gian-m17-0020427/3e4e90aa-84f3-0300-1a31-00189e40c045.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/pktt-day-nit-on-gian-m17-0020427/af8cc11d-9804-0400-57e8-00189e40c2ad.jpg?w=540&h=756"
+  ],
+  "categories": "Thatlung",
+  "size": " Free Size",
+  "color": "Xanh Đen",
+  "price": 285,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650960382434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669362730138"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bae11bafa0b255f1e721"
+  },
+  "title": "Quần Tây Tối Giản HG11",
+  "desc": "Chất liệu: Vải Quần Tây Thành phần: 70% poly 28% rayon 2% spandex - Mềm mại, bề mặt vải trơn mịn, cảm giác mát nhẹ khi mặc. - Thiết kế quần ống đứng mang đến sự lịch lãm, tự tin và nam tính cho người mặc. - Phù hợp với nhiều môi trường khác nhau như đi làm, đi tiệc, đi học, đi chơi.",
+  "img": [
+    "https://cdn2.yame.vn/pimg/quan-tay-y2010-hg11-0019800/51abd442-18f4-3600-7c34-0018b9fbbe0c.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/quan-tay-y2010-hg11-0019800/7bd5b09d-962d-3700-0544-0018b9fbbef1.jpg?w=540&h=756"
+  ],
+  "categories": "Quantay",
+  "size": "Form Tiêu Chuẩn",
+  "color": "Đen",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965217438"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669362399548"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bb1d1bafa0b255f1e726"
+  },
+  "title": "Quần Tây Đơn Giản Y Nguyên Bản Ver26",
+  "desc": "Quần Tây Đơn Giản Y Nguyên Bản Ver26 Chất liệu: Vải Quần Tây Thành phần: 78% Polyester 18% Rayon 4% Spandex + Thêu logo #Y2010 + may đắp logo",
+  "img": [
+    "https://cdn2.yame.vn/pimg/quan-tay-on-gian-y-nguyen-ban-ver26-0021290/3d4289df-2b98-5600-5629-00198eb30808.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/quan-tay-on-gian-y-nguyen-ban-ver26-0021290/da5628ed-f27c-5700-65fa-00198eb3081d.jpg?w=540&h=756"
+  ],
+  "categories": "Quantay",
+  "size": "Form Tiêu Chuẩn",
+  "color": "Đen",
+  "price": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965277144"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669362444813"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bb4d1bafa0b255f1e729"
+  },
+  "title": "Quần Tây Đơn Giản Y Nguyên Bản Ver21",
+  "desc": "Quần Tây Đơn Giản Y Nguyên Bản Ver21 Chất liệu: Quần Tây Thành phần: 87% Polyester 12% Rayon 1% Spandex + Họa tiết thêu logo #Y2010",
+  "img": [
+    "https://cdn2.yame.vn/pimg/quan-tay-on-gian-y-nguyen-ban-ver21-0021421/7f9e5fb4-0ccc-0d00-50b3-001999b0cf6f.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/quan-tay-on-gian-y-nguyen-ban-ver21-0021421/dd55bc7f-735b-0e00-bc2c-001999b0cf7e.jpg?w=540&h=756"
+  ],
+  "categories": "Quantay",
+  "size": "Form Tiêu Chuẩn",
+  "color": "Xám Nhạt",
+  "price": 400,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965325152"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669362582365"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bba21bafa0b255f1e731"
+  },
+  "title": "PKTT Ví Nguyên Bản V16",
+  "desc": "PKTT Ví Đơn Giản V16  Chất liệu: DA BÒ THẬT 100% - Bền bỉ - Sang trọng và tinh tế Kích thước: Ngang 10.5 cm x Cao 8 cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/pktt-vi-on-gian-v16-0020295/c0d480d5-0221-0300-7da0-001876fed761.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/pktt-vi-on-gian-v16-0020295/fab73392-f895-0400-4ae4-001876fed9ba.jpg?w=540&h=756"
+  ],
+  "categories": "Vi",
+  "size": "Free size",
+  "color": "Đen",
+  "price": 225,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965410743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669363066564"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267bc411bafa0b255f1e734"
+  },
+  "title": "PKTT Dây Nịt Nguyên Bản M18",
+  "desc": "Dây: 100% da bò thật - Bền bỉ - Sang trọng và tinh tế - Dây nịt sử dụng được cả 2 mặt da --- Đầu khóa: Zinc contract (Là một loại hợp kim màu của Kẽm, thêm Nhôm, Đồng, Magie. Có màu trắng xanh ở nhiệt độ thường) - Bề mặt sáng bóng và đẹp - Đặc biệt: không gỉ sét",
+  "img": [
+    "https://cdn2.yame.vn/pimg/pktt-day-nit-on-gian-m18-0020429/81b0e396-6b31-3600-e5e8-001891ca8c11.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/pktt-day-nit-on-gian-m18-0020429/61edb323-f712-3700-76f9-001891ca8c1a.jpg?w=540&h=756"
+  ],
+  "categories": "Thatlung",
+  "size": "Free size",
+  "color": "Xám Đen",
+  "price": 285,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650965569287"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669362971670"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626838d214d84e2de84213a3"
+  },
+  "title": "Áo Thun Cổ Trụ Đơn Giản Y Nguyên Bản Ver46",
+  "desc": "Áo Thun Cổ Trụ Đơn Giản Y Nguyên Bản Ver46 Chất liệu: Cotton Compact Thành phần: 100% Cotton - Thân thiện - Thấm hút thoát ẩm - Mềm mại - Kiểm soát mùi - Điều hòa nhiệt + Họa tiết in dẻo - HDSD: + Nên giặt chung với sản phẩm cùng màu + Không dùng thuốc tẩy hoặc xà phòng có tính tẩy mạnh + Nên phơi trong bóng râm để giữ sp bền màu",
+  "img": [
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tru-on-gian-y-nguyen-ban-ver46-0020781/6395b6a5-4ab2-2300-ea53-00190f910aaa.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tru-on-gian-y-nguyen-ban-ver46-0020781/cf8c25c0-6121-2400-a185-00190f910ad3.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Trắng",
+  "price": 285,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650997458224"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669359333157"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268cff15f88494c7db36ef0"
+  },
+  "title": "Áo Thun Sweater Đơn Giản Y Nguyên Bản Ver91",
+  "desc": "Áo Thun Sweater Đơn Giản Y Nguyên Bản Ver91 Chất liệu: COTTON DOUBLE FACE - Vải sợi Cotton được dệt theo \"DOUBLE-FACE\" có cấu trúc 2 bề mặt giống nhau, có thể sử dụng được cả 2 mặt vải . Thành phần: 87% Cotton 13% Polyester - Co giãn - Độ bền cao - Thoáng Khí - Nhanh khô + Họa tiết in dẻo",
+  "img": [
+    "https://cdn2.yame.vn/pimg/ao-thun-sweater-on-gian-y-nguyen-ban-ver91-0021469/8cac010e-7f48-6800-1b34-00199f31d29c.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/ao-thun-sweater-on-gian-y-nguyen-ban-ver91-0021469/663cc8e6-5f8e-6900-6bd5-00199f31d2ee.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Xanh",
+  "price": 357,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036145723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669359453651"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d0625f88494c7db36ef5"
+  },
+  "title": "Áo Thun Cổ Tròn Đơn Giản Ngân Hà Space Ver30",
+  "desc": "Áo Thun Cổ Tròn Đơn Giản Ngân Hà Space Ver30 Chất liệu: Vải Da Lộn Thành phần : 90% Polyester 10% Spandex + Họa tiết thêu 2D + 3D",
+  "img": [
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-on-gian-ngan-ha-space-ver30-0021311/83c3c161-a05d-a200-c56f-001968329d65.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tron-on-gian-ngan-ha-space-ver30-0021311/0ba40454-7d18-a300-314a-001968329d69.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Đỏ",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036258544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669359571582"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d0aa5f88494c7db36efa"
+  },
+  "title": "Áo Thun Cổ Trụ Đơn Giản 12VAHDT Văn Hiến Chi Bang Ver11",
+  "desc": "Áo Thun Cổ Trụ Đơn Giản 12VAHDT Văn Hiến Chi Bang Ver11 Chất liệu: Cotton Compact Thành phần: 100% Cotton - Thân thiện - Thấm hút thoát ẩm - Mềm mại - Kiểm soát mùi - Điều hòa nhiệt + Họa tiết thêu đắp giống, thêu xù - HDSD: + Nên giặt chung với sản phẩm cùng màu + Không dùng thuốc tẩy hoặc xà phòng có tính tẩy mạnh + Nên phơi trong bóng râm để giữ sp bền màu",
+  "img": [
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tru-on-gian-12vahdt-van-hien-chi-bang-ver11-0020651/33b6f64a-2ef0-0100-c8d2-0018f0e497c1.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/ao-thun-co-tru-on-gian-12vahdt-van-hien-chi-bang-ver11-0020651/b3650602-a969-3500-5129-0018e91501f1.jpg?w=540&h=756"
+  ],
+  "categories": "Áo",
+  "size": "XL",
+  "color": "Đen",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036330723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669359653092"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d13b5f88494c7db36f0d"
+  },
+  "title": "PKTT Ví Nguyên Bản V21",
+  "desc": "PKTT Ví Nguyên Bản V21 Chất liệu : Da Bò Thật 100% - Kích thước: Ngang 12cm Cao 9.5cm",
+  "img": [
+    "https://cdn2.yame.vn/pimg/pktt-vi-nguyen-ban-v21-0020746/f78a260c-0fcf-4c00-f3f1-0018ef29df65.jpg?w=540&h=756",
+    "https://cdn2.yame.vn/pimg/pktt-vi-nguyen-ban-v21-0020746/94453d25-e38d-4d00-62ab-0018ef29df73.jpg?w=540&h=756"
+  ],
+  "categories": "Vi",
+  "size": "Free size",
+  "color": "Đen",
+  "price": 285,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036475334"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669363150084"
+    }
+  },
+  "__v": 0
+}]

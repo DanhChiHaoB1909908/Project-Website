@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "638078ad8c4f7fab73e45e56"
+  },
+  "userId": "6269582dc19025d6d113db41",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 1,
+  "title": "Áo Thun Sweater Đơn Giản Y Nguyên Bản Ver91",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-sweater-on-gian-y-nguyen-ban-ver91-0021469/8cac010e-7f48-6800-1b34-00199f31d29c.jpg?w=540&h=756",
+  "color": "Xanh",
+  "size": "XL",
+  "price": 357,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669363885609"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669363885609"
+    }
+  },
+  "__v": 0
+}]
